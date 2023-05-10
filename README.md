@@ -3,7 +3,7 @@
 - Class Date: May 10 - 11, 2023
 - Facilitator: @dsanchezcr
 - Survey: https://forms.office.com/e/sisZhbhMKB
-
+caption-this
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
