@@ -1,0 +1,26 @@
+release  activity
+1. FOD review   tickets add final build and send to dba.
+2.review incremtal sqls .
+3. automation way tool will generate.
+ but will check for incremtnal sqls 
+and 
+4. in automation  - DBCR'sn eed to  capture  and  create ticket in suto incemrla way
+5.FOD and Incremtal sql - assign to dba  an cross verify with you icremtnal sqls form B!- B22
+6.DBCR's - assign to DBA
+7.check in for DBCR's in Jira
+8.
+if a project is merged mneed to check for dbcr's.
+9.if dbcrs is missed   either it  goes by datafix or incremtnal way.
+10.
+
+incremental
+
+
+automation -  B#20 - B#21  that will get deployed in all environmetns.
+current bn is  very important.type incremtnal type
+auto icremental - dbcrs beed to create type also incremtnal with schema
+curretnbn is laso important
+
+
+
+
